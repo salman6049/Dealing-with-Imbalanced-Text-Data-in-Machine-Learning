@@ -1,1 +1,2 @@
 # Dealing-with-Imbalanced-Text-Data-in-Machine-Learning
+Imbalanced text data is a common challenge in machine learning, particularly in natural language processing (NLP) tasks. It occurs when the distribution of classes in the target variable is not uniform, leading to poor model performance on minority classes. This article discusses various techniques for dealing with imbalanced text data, provides formulas and charts for better understanding, and offers a Python example to demonstrate the application of these techniques.
